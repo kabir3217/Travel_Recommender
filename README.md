@@ -1,9 +1,4 @@
 # Travel_Recommender
-Sure! Below is the **ready-to-copy** text version of the `README.md` for your **Travel Recommender Flask App**. You can copy it and paste it directly into your GitHub repository’s README section:
-
----
-
-```markdown
 # 🌍 Travel Recommender Web App
 
 This is a Flask-based Travel Recommender that helps users discover ideal travel destinations based on their preferences — including season, duration, budget, and interests. The app also generates a 7-day personalized itinerary for each city.
